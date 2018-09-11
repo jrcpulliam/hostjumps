@@ -1,0 +1,170 @@
+#~~~~~~~~~~~~~~~~~~~ COPYRIGHT NOTICE ~~~~~~~~~~~~~~~~~~~#
+#
+# © 2008, Juliet R.C. Pulliam and Jonathan Dushoff. Some Rights Reserved.
+#
+# This work is Copyright Juliet R.C. Pulliam and Jonathan Dushoff 2008
+# and is made available under a Creative Commons Attribution Noncommercial
+# Share Alike United States 3.0 License. You are free to copy, distribute,
+# and modify this work, provided that you do not use the work for
+# commercial purposes, you credit the authors, and you include a copy of
+# this notice.  If this work is used for academic purposes, the associated
+# paper should be cited:
+#
+# Pulliam, JRC and Dushoff, J (2009) Ability to replicate in the cytoplasm
+# predicts zoonotic transmission of livestock viruses. Journal of Infectious
+# Diseases 199(4): 565-568. DOI: 10.1086/596510
+#
+# If you modify this work, you may distribute the resulting derivative
+# work only under the same or a similar license to this one and with
+# proper attribution of the original work, as stated above. To see further
+# details of this license, including a link to the legal code, visit
+# http://creativecommons.org/licenses/by-nc-sa/3.0/.
+#
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#				
+family	genus	species	status	human
+Adenoviridae	Atadenovirus	BAdV-D	approved	N
+Adenoviridae	Atadenovirus	BAdV-E	tentative	N
+Adenoviridae	Atadenovirus	BAdV-F	tentative	N
+Adenoviridae	Atadenovirus	OAdV-D	approved	N
+Adenoviridae	Mastadenovirus	BAdV-A	approved	N
+Adenoviridae	Mastadenovirus	BAdV-B	approved	N
+Adenoviridae	Mastadenovirus	BAdV-C	approved	N
+Adenoviridae	Mastadenovirus	GAdV-2	tentative	N
+Adenoviridae	Mastadenovirus	OAdV-A	approved	N
+Adenoviridae	Mastadenovirus	OAdV-B	approved	N
+Adenoviridae	Mastadenovirus	OAdV-C	tentative	N
+Adenoviridae	Mastadenovirus	PAdV-A	approved	N
+Adenoviridae	Mastadenovirus	PAdV-B	approved	N
+Adenoviridae	Mastadenovirus	PAdV-C	approved	N
+Arteriviridae	Arterivirus	PRRSV	approved	N
+Asfarviridae	Asfivirus	ASFV	approved	N
+Astroviridae	Mamastrovirus	BAstV	approved	N
+Astroviridae	Mamastrovirus	OAstV	approved	N
+Astroviridae	Mamastrovirus	PAstV	approved	N
+Bornaviridae	Bornavirus	BDV	approved	Y1
+Bunyaviridae	Hantavirus	HTNV	approved	Y
+Bunyaviridae	Hantavirus	PUUV	approved	Y
+Bunyaviridae	Nairovirus	CCHFV	approved	Y
+Bunyaviridae	Nairovirus	DUGV	approved	Y
+Bunyaviridae	Orthobunyavirus	AKAV	approved	N
+Bunyaviridae	Orthobunyavirus	BUNV	approved	Y
+Bunyaviridae	Orthobunyavirus	CEV	approved	Y
+Bunyaviridae	Orthobunyavirus	MANV	approved	N
+Bunyaviridae	Orthobunyavirus	MDV	approved	N
+Bunyaviridae	Orthobunyavirus	SATV	approved	N
+Bunyaviridae	Orthobunyavirus	SHAV	approved	N
+Bunyaviridae	Orthobunyavirus	SHUV	approved	N
+Bunyaviridae	Phlebovirus	AMTV	tentative	N
+Bunyaviridae	Phlebovirus	RVFV	approved	Y
+Bunyaviridae	Phlebovirus	UUKV	approved	S
+Bunyaviridae	Unassigned	GGV	tentative	Y2
+Bunyaviridae	Unassigned	TRUV	tentative	Y2
+Caliciviridae	Norovirus	BEC-J	tentative	S
+Caliciviridae	Norovirus	BEC-N2	tentative	S
+Caliciviridae	Norovirus	SNV	tentative	N
+Caliciviridae	Sapovirus	PESV	tentative	N
+Caliciviridae	Unassigned	BEC-NB	tentative	N
+Caliciviridae	Vesivirus	VESV	approved	Y
+Circoviridae	Circovirus	PCV-1	approved	N
+Circoviridae	Circovirus	PCV-2	approved	N
+Coronaviridae	Coronavirus	BCoV	approved	Y
+Coronaviridae	Coronavirus	PEDV	approved	N
+Coronaviridae	Coronavirus	PHEV	approved	N
+Coronaviridae	Coronavirus	TGEV	approved	N
+Coronaviridae	Torovirus	BToV	approved	N
+Coronaviridae	Torovirus	PToV	approved	N
+Flaviviridae	Flavivirus	JEV	approved	Y
+Flaviviridae	Flavivirus	KADV	approved	N
+Flaviviridae	Flavivirus	LGTV	approved	Y2
+Flaviviridae	Flavivirus	LIV	approved	Y2
+Flaviviridae	Flavivirus	MVEV	approved	Y2
+Flaviviridae	Flavivirus	POWV	approved	Y2
+Flaviviridae	Flavivirus	SLEV	approved	Y
+Flaviviridae	Flavivirus	TBEV	approved	Y
+Flaviviridae	Flavivirus	WESSV	approved	Y
+Flaviviridae	Flavivirus	WNV	approved	Y
+Flaviviridae	Pestivirus	BDV	approved	N
+Flaviviridae	Pestivirus	BVDV-1	approved	Y
+Flaviviridae	Pestivirus	BVDV-2	approved	N
+Flaviviridae	Pestivirus	CSFV	approved	N
+Herpesviridae	Rhadinovirus	AlHV-1	approved	N
+Herpesviridae	Rhadinovirus	BoHV-4	approved	N
+Herpesviridae	Rhadinovirus	OvHV-2	approved	N
+Herpesviridae	Simplexvirus	BoHV-2	approved	N
+Herpesviridae	Unassigned	OvHV-1	unassigned	N
+Herpesviridae	Unassigned	SuHV-2	unassigned	N
+Herpesviridae	Varicellovirus	BoHV-1	approved	N
+Herpesviridae	Varicellovirus	BoHV-5	approved	N
+Herpesviridae	Varicellovirus	CpHV-1	approved	N
+Herpesviridae	Varicellovirus	SuHV-1	approved	Y2
+Orthomyxoviridae	Thogotovirus	THOV	approved	N
+Papillomaviridae	Deltapapillomavirus	BPaV-1	approved	N
+Papillomaviridae	Deltapapillomavirus	OvPaV-1	approved	N
+Papillomaviridae	Epsilonpapillomavirus	BPaV-5	approved	N
+Papillomaviridae	Xipapillomavirus	BPaV-3	approved	N
+Paramyxoviridae	Avulavirus	NDV	approved	Y
+Paramyxoviridae	Henipavirus	NiV	approved	Y
+Paramyxoviridae	Morbillivirus	PPRV	approved	N
+Paramyxoviridae	Morbillivirus	RPV	approved	N
+Paramyxoviridae	Pneumovirus	BRSV	approved	N
+Paramyxoviridae	Pneumovirus	CRSV	tentative	N
+Paramyxoviridae	Pneumovirus	ORSV	tentative	N
+Paramyxoviridae	Respirovirus	BPIV-3	approved	V
+Paramyxoviridae	Rubulavirus	MenV	tentative	Y
+Paramyxoviridae	Rubulavirus	PoRV	approved	N
+Paramyxoviridae	Rubulavirus	SV-5	approved	Y
+Parvoviridae	Bocavirus	BPV	approved	N
+Parvoviridae	Erythrovirus	BPV-3	tentative	N
+Parvoviridae	Parvovirus	PPV	approved	N
+Picornaviridae	Aphthovirus	FMDV	approved	Y2
+Picornaviridae	Cardiovirus	EMCV	approved	Y2
+Picornaviridae	Enterovirus	BEV	approved	N
+Picornaviridae	Enterovirus	PEV-A	approved	N
+Picornaviridae	Enterovirus	PEV-B	approved	N
+Picornaviridae	Kobuvirus	BKV	approved	N
+Picornaviridae	Rhinovirus	BRV-1	tentative	N
+Picornaviridae	Rhinovirus	BRV-2	tentative	N
+Picornaviridae	Rhinovirus	BRV-3	tentative	N
+Picornaviridae	Teschovirus	PTV	approved	N
+Polyomaviridae	Polyomavirus	BPyV	approved	N
+Poxviridae	Capripoxvirus	GTPV	approved	N
+Poxviridae	Capripoxvirus	LSDV	approved	N
+Poxviridae	Capripoxvirus	SPPV	approved	N
+Poxviridae	Orthopoxvirus	CPXV	approved	Y
+Poxviridae	Orthopoxvirus	VACV	approved	Y
+Poxviridae	Parapoxvirus	BPSV	approved	Y
+Poxviridae	Parapoxvirus	ORFV	approved	Y
+Poxviridae	Parapoxvirus	PCPV	approved	Y
+Poxviridae	Suipoxvirus	SWPV	approved	N
+Reoviridae	Orbivirus	BTV	approved	N
+Reoviridae	Orbivirus	CNUV	approved	N
+Reoviridae	Orbivirus	EHDV	approved	N
+Reoviridae	Orbivirus	GIV	approved	N
+Reoviridae	Orbivirus	ORUV	approved	Y
+Reoviridae	Orbivirus	PALV	approved	N
+Reoviridae	Rotavirus	RV-A	approved	Y
+Reoviridae	Rotavirus	RV-B	approved	Y
+Reoviridae	Rotavirus	RV-C	approved	Y
+Reoviridae	Rotavirus	RV-E	approved	N
+Retroviridae	Betaretrovirus	JSRV	approved	N
+Retroviridae	Deltaretrovirus	BLV	approved	S
+Retroviridae	Gammaretrovirus	PCOV	approved	N
+Retroviridae	Lentivirus	BIV	approved	N
+Retroviridae	Lentivirus	CAEV	approved	N
+Retroviridae	Lentivirus	VISNA	approved	N
+Retroviridae	Spumavirus	BFV	approved	N
+Rhabdoviridae	Ephemerovirus	BEFV	approved	N
+Rhabdoviridae	Lyssavirus	EBLV-1	approved	Y2
+Rhabdoviridae	Lyssavirus	RABV	approved	Y
+Rhabdoviridae	Unassigned	BAV	tentative	N
+Rhabdoviridae	Unassigned	KOOLV	tentative	N
+Rhabdoviridae	Unassigned	FUKAV	tentative	N
+Rhabdoviridae	Vesiculovirus	CHPV	approved	Y
+Rhabdoviridae	Vesiculovirus	VSIV	approved	Y
+Rhabdoviridae	Vesiculovirus	VSNJV	approved	Y2
+Togaviridae	Alphavirus	BarFV	approved	S
+Togaviridae	Alphavirus	CHIKV	approved	Y
+Togaviridae	Alphavirus	EEEV	approved	Y
+Togaviridae	Alphavirus	GETV	approved	N
+Togaviridae	Alphavirus	RRV	approved	Y
+Togaviridae	Alphavirus	VEEV	approved	Y

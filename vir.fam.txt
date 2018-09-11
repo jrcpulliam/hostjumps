@@ -1,0 +1,46 @@
+#~~~~~~~~~~~~~~~~~~~ COPYRIGHT NOTICE ~~~~~~~~~~~~~~~~~~~#
+#
+# ¬Â© 2008, Juliet R.C. Pulliam and Jonathan Dushoff. Some Rights Reserved.
+#
+# This work is Copyright Juliet R.C. Pulliam and Jonathan Dushoff 2008
+# and is made available under a Creative Commons Attribution Noncommercial
+# Share Alike United States 3.0 License. You are free to copy, distribute,
+# and modify this work, provided that you do not use the work for
+# commercial purposes, you credit the authors, and you include a copy of
+# this notice.  If this work is used for academic purposes, the associated
+# paper should be cited:
+#
+# Pulliam, JRC and Dushoff, J (2009) Ability to replicate in the cytoplasm
+# predicts zoonotic transmission of livestock viruses. Journal of Infectious
+# Diseases 199(4): 565-568. DOI: 10.1086/596510
+#
+# If you modify this work, you may distribute the resulting derivative
+# work only under the same or a similar license to this one and with						
+# proper attribution of the original work, as stated above. To see further
+# details of this license, including a link to the legal code, visit
+# http://creativecommons.org/licenses/by-nc-sa/3.0/.						
+#						
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#						
+family	segments	nucleic.acid	site	seg	gm	sr
+Adenoviridae	single	DNA	nucleus	0	0	0
+Arteriviridae	single	RNA	cytoplasm	0	1	1
+Asfarviridae	single	DNA	cytoplasm	0	0	1
+Astroviridae	single	RNA	cytoplasm	0	1	1
+Bornaviridae	single	RNA	nucleus	0	1	0
+Bunyaviridae	multiple	RNA	cytoplasm	1	1	1
+Caliciviridae	single	RNA	cytoplasm	0	1	1
+Circoviridae	single	DNA	nucleus	0	0	0
+Coronaviridae	single	RNA	cytoplasm	0	1	1
+Flaviviridae	single	RNA	cytoplasm	0	1	1
+Herpesviridae	single	DNA	nucleus	0	0	0
+Orthomyxoviridae	multiple	RNA	nucleus	1	1	0
+Papillomaviridae	single	DNA	nucleus	0	0	0
+Paramyxoviridae	single	RNA	cytoplasm	0	1	1
+Parvoviridae	single	DNA	nucleus	0	0	0
+Picornaviridae	single	RNA	cytoplasm	0	1	1
+Polyomaviridae	single	DNA	nucleus	0	0	0
+Poxviridae	single	DNA	cytoplasm	0	0	1
+Reoviridae	multiple	RNA	cytoplasm	1	1	1
+Retroviridae	single	RNA	nucleus	0	1	0
+Rhabdoviridae	single	RNA	cytoplasm	0	1	1
+Togaviridae	single	RNA	cytoplasm	0	1	1

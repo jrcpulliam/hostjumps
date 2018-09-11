@@ -1,0 +1,85 @@
+#~~~~~~~~~~~~~~~~~~~ COPYRIGHT NOTICE ~~~~~~~~~~~~~~~~~~~#
+#
+# ¬Â© 2008, Juliet R.C. Pulliam and Jonathan Dushoff. Some Rights Reserved.
+#
+# This work is Copyright Juliet R.C. Pulliam and Jonathan Dushoff 2008
+# and is made available under a Creative Commons Attribution Noncommercial
+# Share Alike United States 3.0 License. You are free to copy, distribute,
+# and modify this work, provided that you do not use the work for
+# commercial purposes, you credit the authors, and you include a copy of"
+# this notice.  If this work is used for academic purposes, the associated
+# paper should be cited:
+#
+# Pulliam, JRC and Dushoff, J (200) Ability to replicate in the cytoplasm
+# predicts zoonotic transmission of livestock viruses. Journal of Infectious
+# Diseases 199(4): 565-568.
+#
+# If you modify this work, you may distribute the resulting derivative
+# work only under the same or a similar license to this one and with	
+# proper attribution of the original work, as stated above. To see further
+# details of this license, including a link to the legal code, visit
+# http://creativecommons.org/licenses/by-nc-sa/3.0/.	
+#	
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#	
+family	genus
+Adenoviridae	Atadenovirus
+Adenoviridae	Mastadenovirus
+Arteriviridae	Arterivirus
+Asfarviridae	Asfivirus
+Astroviridae	Mamastrovirus
+Bornaviridae	Bornavirus
+Bunyaviridae	Hantavirus
+Bunyaviridae	Nairovirus
+Bunyaviridae	Orthobunyavirus
+Bunyaviridae	Phlebovirus
+Bunyaviridae	Unassigned
+Caliciviridae	Norovirus
+Caliciviridae	Sapovirus
+Caliciviridae	Unassigned
+Caliciviridae	Vesivirus
+Circoviridae	Circovirus
+Coronaviridae	Coronavirus
+Coronaviridae	Torovirus
+Flaviviridae	Flavivirus
+Flaviviridae	Pestivirus
+Herpesviridae	Rhadinovirus
+Herpesviridae	Simplexvirus
+Herpesviridae	Unassigned
+Herpesviridae	Varicellovirus
+Orthomyxoviridae	Influenzavirus A
+Orthomyxoviridae	Thogotovirus
+Papillomaviridae	Deltapapillomavirus
+Papillomaviridae	Epsilonpapillomavirus
+Papillomaviridae	Xipapillomavirus
+Paramyxoviridae	Avulavirus
+Paramyxoviridae	Henipavirus
+Paramyxoviridae	Morbillivirus
+Paramyxoviridae	Pneumovirus
+Paramyxoviridae	Respirovirus
+Paramyxoviridae	Rubulavirus
+Parvoviridae	Bocavirus
+Parvoviridae	Erythrovirus
+Parvoviridae	Parvovirus
+Picornaviridae	Aphthovirus
+Picornaviridae	Cardiovirus
+Picornaviridae	Enterovirus
+Picornaviridae	Kobuvirus
+Picornaviridae	Rhinovirus
+Picornaviridae	Teschovirus
+Polyomaviridae	Polyomavirus
+Poxviridae	Capripoxvirus
+Poxviridae	Orthopoxvirus
+Poxviridae	Parapoxvirus
+Poxviridae	Suipoxvirus
+Reoviridae	Orbivirus
+Reoviridae	Rotavirus
+Retroviridae	Betaretrovirus
+Retroviridae	Deltaretrovirus
+Retroviridae	Gammaretrovirus
+Retroviridae	Lentivirus
+Retroviridae	Spumavirus
+Rhabdoviridae	Ephemerovirus
+Rhabdoviridae	Lyssavirus
+Rhabdoviridae	Unassigned
+Rhabdoviridae	Vesiculovirus
+Togaviridae	Alphavirus
